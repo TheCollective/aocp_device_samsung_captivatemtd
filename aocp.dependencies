@@ -4,7 +4,7 @@
 		"target_path": "packages/apps/SamsungServiceMode"
 	},
 	{
-		"repository": "android_device_samsung_aries-common",
+		"repository": "aocp_device_samsung_aries-common",
 		"target_path": "device/samsung/aries-common"
 	},
 	{
