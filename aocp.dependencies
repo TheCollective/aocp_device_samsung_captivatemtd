@@ -12,6 +12,10 @@
                 "target_path": "vendor/samsung/captivatemtd"
         },
         {
+                "repository": "proprietary_vendor_aries-common",
+                "target_path": "vendor/samsung/aries-common"
+        },
+        {
 		"repository": "android_hardware_samsung",
 		"target_path": "hardware/samsung"
 	},
