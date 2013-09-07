@@ -11,6 +11,7 @@ $(call inherit-product, vendor/aocp/config/common_full_phone.mk)
 $(call inherit-product, device/samsung/captivatemtd/full_captivatemtd.mk)
 
 ## Device identifier. This must come after all inclusions
+NEEDS_FLASHLIGHT := true
 PRODUCT_DEVICE := captivatemtd
 TARGET_BOOTANIMATION_NAME := bootanimation_480_800
 PRODUCT_NAME := aocp_captivatemtd
